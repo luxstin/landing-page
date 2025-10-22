@@ -5,7 +5,7 @@ export default function About() {
         <div className="md:col-span-2 flex justify-center">
           <div className="w-80 h-80 rounded-full overflow-hidden shadow-2xl">
             <img
-              src="/src/assets/IMG_2991.jpg"
+              src="/assets/IMG_2991.jpg"
               alt="Zach Williams"
               className="w-full h-full object-cover"
             />
