@@ -85,7 +85,7 @@ export default function Hero() {
         </p>
 
         <p className="text-[#F5F5F3] text-sm">
-          Trusted by 80+ Austin buyers & sellers · $60M+ closed · Former appraiser
+          Trusted by 100+ Austin buyers & sellers · $60M+ closed · Former appraiser
         </p>
       </div>
 
