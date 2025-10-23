@@ -42,7 +42,7 @@ export default function FinalCTA() {
         </h2>
 
         <p className="text-xl text-[#F5F5F3] font-light leading-relaxed mb-12 max-w-xl mx-auto">
-          Join 3,000+ discerning Austin buyers who get the best luxury listings delivered every Friday. No fluff. No Zillow fatigue. Just homes worth seeing.
+          Join 3,000+ Austin buyers who get the best luxury listings delivered every Friday. No fluff. No Zillow fatigue. Just homes worth seeing.
         </p>
 
         <form onSubmit={handleSubmit} className="flex flex-col items-center gap-4 mb-6">
