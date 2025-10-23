@@ -24,7 +24,7 @@ export default function Hero() {
           throw error;
         }
       } else {
-        setMessage('Welcome to the list. Check your inbox Friday.');
+        setMessage('Welcome to the list. Check your inbox.');
         setStatus('success');
         setEmail('');
       }
