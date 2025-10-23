@@ -61,7 +61,7 @@ export default function MidCTA() {
               disabled={status === 'loading'}
               className="px-8 py-4 bg-[#1A1A1A] text-[#C5A572] text-lg font-medium rounded-sm hover:bg-[#2B2B2B] transition-all hover:-translate-y-0.5 hover:shadow-xl disabled:opacity-50 disabled:hover:translate-y-0 whitespace-nowrap"
             >
-              {status === 'loading' ? 'Joining...' : 'Join the Luxstin List — Free →'}
+              {status === 'loading' ? 'Joining...' : 'Join the Luxstin List — Free'}
             </button>
           </div>
           {message && (
