@@ -47,7 +47,7 @@ export default function Hero() {
 
       <div className="relative z-10 text-center px-6 max-w-4xl mx-auto">
         <h1 className="font-serif text-5xl md:text-7xl text-white mb-8 leading-tight">
-          Skip Scrolling Zillow — Get Austin's Hottest $1M+ Homes Sent Weekly.
+          Skip Scrolling Zillow — Get Austin's Hottest Luxury Homes Sent Weekly
         </h1>
 
         <p className="text-xl md:text-2xl text-[#F5F5F3] font-light mb-12 max-w-2xl mx-auto leading-relaxed">
