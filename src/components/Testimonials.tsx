@@ -1,15 +1,15 @@
 const testimonials = [
   {
-    quote: "I was constantly refreshing Zillow. Now I just wait for Zach's Friday email — always the best homes, no noise.",
-    author: "JENNIFER K., WESTLAKE BUYER"
+    quote: "I was constantly refreshing Zillow with no luck. Zach sent me the perfect home and we went under contract the next day.",
+    author: "LORI H., WESTLAKE BUYER"
   },
   {
-    quote: "Luxstin gives me early access to listings before they get picked over. It's like having an insider advantage.",
-    author: "MICHAEL R., TARRYTOWN"
+    quote: "Zach found our dream home, represented us, and saved us over $60,000.",
+    author: "SUNNY K., TARRYTOWN"
   },
   {
-    quote: "Simple, curated, and actually useful. This is the only real estate email I open every week.",
-    author: "SARAH L., BARTON CREEK"
+    quote: "We were moving to Austin from out of state and limited on options and timing. Zach found our forever home and handled everything for us.",
+    author: "AMANDA R., AUSTIN"
   }
 ];
 
