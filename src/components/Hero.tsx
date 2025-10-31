@@ -51,7 +51,7 @@ export default function Hero() {
         </h1>
 
         <p className="text-xl md:text-2xl text-[#F5F5F3] font-light mb-12 max-w-2xl mx-auto leading-relaxed">
-          Luxstin sends Austin's best modern homes straight to your inbox - chosen for their architecture, location, and rarity. 
+          Most listings blend in. Luxstin sends the homes that stand out. 
         </p>
 
         <form onSubmit={handleSubmit} className="flex flex-col items-center gap-4 mb-6">
