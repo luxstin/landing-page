@@ -35,7 +35,7 @@ export default function Hero() {
   };
 
   return (
-    <section className="relative h-screen flex items-center justify-center overflow-hidden pt-16 md:pt-0">
+    <section className="relative h-screen flex items-center justify-center overflow-hidden pt-8 md:pt-0">
       <div className="absolute inset-0 bg-[#1A1A1A]">
         <img
           src="https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg?auto=compress&cs=tinysrgb&w=1920"
