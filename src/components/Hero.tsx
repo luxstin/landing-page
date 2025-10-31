@@ -51,7 +51,8 @@ export default function Hero() {
         </h1>
 
         <p className="text-xl md:text-2xl text-[#F5F5F3] font-light mb-12 max-w-2xl mx-auto leading-relaxed">
-          Most people scroll Zillow and hope to spot something special. Luxstin handpicks the highest-quality modern and luxury homes in Austin - the ones that turn heads and go pending fast. Join now to see them before everyone else
+          Most people scroll Zillow and hope to spot something special. Luxstin handpicks the highest-quality modern and luxury homes in Austin - the ones that go pending fast. 
+          Join now to see them before everyone else
         </p>
 
         <form onSubmit={handleSubmit} className="flex flex-col items-center gap-4 mb-6">
