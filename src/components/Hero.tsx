@@ -51,7 +51,7 @@ export default function Hero() {
         </h1>
 
         <p className="text-xl md:text-2xl text-[#F5F5F3] font-light mb-12 max-w-2xl mx-auto leading-relaxed">
-          We find Austin's most desirable homes the moment they hit the market - chosen for architecture, quality, and speed to sell. Don't miss the next one
+          Get Austin's most desirable homes the moment they hit the market - chosen for architecture, quality, and speed to sell. Don't miss the next one
         </p>
 
         <form onSubmit={handleSubmit} className="flex flex-col items-center gap-4 mb-6">
