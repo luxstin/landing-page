@@ -35,7 +35,7 @@ export default function Hero() {
   };
 
   return (
-    <section className="relative h-screen flex items-center justify-center overflow-hidden pt-16 md:pt-0">
+    <section className="relative h-screen flex items-center justify-center overflow-hidden pt-0 md:pt-0">
       <div className="absolute inset-0 bg-[#1A1A1A]">
         <img
           src="https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg?auto=compress&cs=tinysrgb&w=1920"
@@ -46,7 +46,7 @@ export default function Hero() {
       </div>
 
       <div className="relative z-10 text-center px-6 max-w-4xl mx-auto">
-        <h1 className="font-serif text-4xl md:text-6xl text-white mb-8 leading-tight">
+        <h1 className="font-serif text-5xl md:text-6xl text-white mb-8 leading-tight">
           Most scroll Zillow. Some get ahead
         </h1>
 
