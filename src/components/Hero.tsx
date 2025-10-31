@@ -47,12 +47,11 @@ export default function Hero() {
 
       <div className="relative z-10 text-center px-6 max-w-4xl mx-auto">
         <h1 className="font-serif text-4xl md:text-6xl text-white mb-8 leading-tight">
-          Most listings blend in. Luxstin sends the homes that stand out.
+          Most listings blend in. Luxstin sends the homes that stand out
         </h1>
 
         <p className="text-xl md:text-2xl text-[#F5F5F3] font-light mb-12 max-w-2xl mx-auto leading-relaxed">
-          Most people scroll Zillow and hope to spot something special. Luxstin handpicks the highest-quality modern and luxury homes in Austin - the ones that go pending fast. 
-          Join now to see them before everyone else
+          Save the scrolling. We filter every Austin luxury listing for architecture, location, and design - so you only see the homes worth your time
         </p>
 
         <form onSubmit={handleSubmit} className="flex flex-col items-center gap-4 mb-6">
