@@ -46,7 +46,7 @@ export default function Hero() {
       </div>
 
       <div className="relative z-10 text-center px-6 max-w-4xl mx-auto">
-        <h1 className="font-serif text-5xl md:text-6xl text-white mb-8 leading-tight">
+        <h1 className="font-serif text-4xl md:text-6xl text-white mb-8 leading-tight">
           Most listings blend in. Luxstin sends the homes that stand out.
         </h1>
 
