@@ -47,11 +47,11 @@ export default function Hero() {
 
       <div className="relative z-10 text-center px-6 max-w-4xl mx-auto">
         <h1 className="font-serif text-4xl md:text-6xl text-white mb-8 leading-tight">
-          Most scroll Zillow. Some get ahead
+          Most Scroll Zillow. Some Get Ahead
         </h1>
 
         <p className="text-xl md:text-2xl text-[#F5F5F3] font-light mb-12 max-w-2xl mx-auto leading-relaxed">
-          Get Austin's most desirable homes the moment they hit the market - chosen for architecture, quality, and speed to sell. Don't miss the next one
+          Austin has some of the most desirable homes in Texas. Get a handpicked, personally curated list of the best homes in town the moment they hit the market - chosen for architecture, quality, and speed to sell
         </p>
 
         <form onSubmit={handleSubmit} className="flex flex-col items-center gap-4 mb-6">
